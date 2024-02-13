@@ -1,4 +1,7 @@
 # CCC_Clase_2_CSS
+# **VER VIDEO:** midu.link/css (VER HASTA GRID, no hace falta animaciones aun)*
+# **Proyecto:** https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
+
 ## Temario de 20 preguntas de CSS básicas para principiantes:
 
 **Introducción a CSS:**
